@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHELVIN</h1>
-<h3 align="center">A software developer from India</h3>
+<h3 align="center">Full-stack dev, always playing around with new tech and learning as I go. Building cool stuff and having fun with it!</h3>
 
 - 📫 How to reach me **shelvinsunilphilip@gmail.com**
 
